@@ -21,6 +21,8 @@
 7. The service worker, powered by workbox, registers itself when you load the application, enabling caching and offline functionality.
 8. Static assets are pre-cached upon loading, ensuring smooth navigation even without an internet connection.
 
+![demo of the gif](./Demo.gif)
+
 ## Features
 * Create and save notes or code snippets with or without an internet connection.
 * Utilize IndexedDB for immediate and reliable data storage.
