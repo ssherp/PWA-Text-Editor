@@ -2,7 +2,7 @@
 ## Description 
  I've built a web-based text editor that you can use to jot down notes and code snippets, even when you're offline. It's pretty nifty – your content is saved automatically using some database magic called IndexedDB. Plus, you can install it on your desktop for quick access, and it works offline thanks to a tech called service workers.
 
- [visit the Demo video](https://pwa-textbootcamp-b2ee1a9fc8ce.herokuapp.com/)
+ [visit Heroku live site](https://pwa-textbootcamp-b2ee1a9fc8ce.herokuapp.com/)
 
 ## Installation
 1. Clone this repository to your local machine.
